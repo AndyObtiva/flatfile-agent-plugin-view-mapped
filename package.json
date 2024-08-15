@@ -20,6 +20,7 @@
     "@flatfile/api": "latest",
     "@flatfile/listener": "latest",
     "@flatfile/plugin-record-hook": "latest",
+    "@flatfile/plugin-view-mapped": "^1.0.2",
     "flatfile": "latest"
   },
   "devDependencies": {
