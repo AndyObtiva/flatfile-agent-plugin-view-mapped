@@ -7,7 +7,7 @@ import { ExcelExtractor } from '@flatfile/plugin-xlsx-extractor'
 import { viewMappedPlugin } from '@flatfile/plugin-view-mapped'
 
 export default function(listener) {
-  listener.use(ExcelExtractor())
+  listener.use(ExcelExtractor({skipEmptyLines: true}))
   
   // this plugin hides all unmapped columns, making new Flatfile Platform behave like Flatfile Portal v2
   listener.use(viewMappedPlugin())

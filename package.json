@@ -21,7 +21,7 @@
     "@flatfile/listener": "latest",
     "@flatfile/plugin-record-hook": "latest",
     "@flatfile/plugin-view-mapped": "^1.0.2",
-    "@flatfile/plugin-xlsx-extractor": "^3.1.4",
+    "@flatfile/plugin-xlsx-extractor": "^3.2.0",
     "flatfile": "latest"
   },
   "devDependencies": {
