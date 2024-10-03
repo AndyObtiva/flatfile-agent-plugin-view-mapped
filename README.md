@@ -1,5 +1,7 @@
 # Getting Started
 
+(Note: forked from https://github.com/FlatFilers/getting-started)
+
 If you're just getting started with Flatfile, you're in the right place.
 
 This code supports [Flatfile's Beginner Tutorial](https://flatfile.com/docs/quickstart), a four-step walkthrough that helps you create your first data import experience.
